@@ -1,0 +1,10 @@
+div p {
+    
+    color: blue !important;
+}
+div + h2{
+    color: brown;
+*{
+    background-color: brown; 
+    }
+}
